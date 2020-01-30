@@ -1,0 +1,20 @@
+{
+  "name": "sethmabry8888-project",
+  "version": "1.0.0",
+  "description": "This readme is a placeholder that should be replaced",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissouriState-CSC515-Spring2020/sethmabry8888-project.git"
+  },
+  "author": "Seth Mabry <mabry888@live.missouristate.edu",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MissouriState-CSC515-Spring2020/sethmabry8888-project/issues"
+  },
+  "homepage": "https://github.com/MissouriState-CSC515-Spring2020/sethmabry8888-project#readme",
+  "type": "module"
+}
