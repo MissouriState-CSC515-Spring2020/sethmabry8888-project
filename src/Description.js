@@ -11,14 +11,14 @@ class Description extends Component {
         return (
             <div>  
                 <div class="row">
-                <h2>Carnivorous Dinosaurs</h2>
+                <h2>Megalosaurus</h2>
                 </div>
                 <div class="row">
-                    <div class="col pic-box justify-content-center">
+                    <div class="col-12 pic-box justify-content-center">
                         <img class="img-fluid" src={megalosaurus} alt="dino"/>
                     </div>
-                    <div class="col">
-                        <p>Here is a description of my amazing dinosaur</p>
+                    <div class="col-12 p-3">
+                        <p>The Megalosaurus is actually from the Middle Jurassic Period!</p>
                     </div>
                 </div>
           </div>
