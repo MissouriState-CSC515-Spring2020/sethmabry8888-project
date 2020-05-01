@@ -4,10 +4,6 @@ import { Link } from 'react-router-dom';
 
 function Nav() {
 
-    const navStyle = {
-        color: 'white'
-    }
-
     return (
         <nav>
         <h1>Dinosaurs of the Mesozoic Era</h1>

@@ -56,3 +56,8 @@ body {
   #dropdown.active {
     color: #EEEEEE;
   }
+
+  .loading {
+    font-weight: 900;
+    padding: 5em;
+  }
